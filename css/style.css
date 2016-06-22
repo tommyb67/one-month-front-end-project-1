@@ -1,0 +1,14 @@
+body {
+  line-height: 1.5;
+
+  background: url('../images/8-jacki-potorke.jpg');
+  /* Full Page Background Receipe */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.container {
+  width: 500px;
+  margin: 40px;
+}
