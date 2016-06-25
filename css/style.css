@@ -1,6 +1,6 @@
 body {
   line-height: 1.5;
-
+  color: white;
   background: url('../images/8-jacki-potorke.jpg');
   /* Full Page Background Receipe */
   background-size: cover;
@@ -11,4 +11,16 @@ body {
 .container {
   width: 500px;
   margin: 40px;
+  background: rgba(0,0,0,0.5);
+  padding: 10px;
+  border-radius: 40px;
 }
+
+iframe.video {
+  position: relative;
+  left: 650px;
+  padding: 5px;
+}
+
+
+
