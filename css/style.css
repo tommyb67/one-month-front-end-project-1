@@ -1,4 +1,6 @@
 body {
+  font-size: 20px;
+  font-family: 'Lobster Two', cursive;
   line-height: 1.5;
   color: white;
   background: url('../images/8-jacki-potorke.jpg');
@@ -11,9 +13,23 @@ body {
 .container {
   width: 500px;
   margin: 40px;
-  background: rgba(0,0,0,0.5);
+  background: rgba(0,0,0,0.7);
   padding: 10px;
   border-radius: 40px;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: 'Yellowtail', cursive;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+a {
+  text-decoration: none;
+  color: rgba(182,191,191);
 }
 
 iframe.video {
